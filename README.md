@@ -1,0 +1,5 @@
+- 👋 Hi, I’m SuZu
+- 👀 Interested in mathematics and computer science
+- 🌱 currently learning c++
+- 💞️ I’m looking to make some cute codes in c++ for practice :D, and then I'll try to collaborate
+- 📫 I'm reguraly active on discord my username is SuZu#5059 you can dm me anytime 
